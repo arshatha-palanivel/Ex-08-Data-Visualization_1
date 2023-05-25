@@ -3,7 +3,7 @@
 ## AIM
 To Perform Data Visualization on a complex dataset and save the data to a file. 
 
-# Explanation
+# EXPLANATION
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
 
 # ALGORITHM
@@ -159,3 +159,4 @@ Removing Outliers
 # RESULT
 
 Thus the Data Visualization method is performed to the given data and to predict the outcome for the given questions.
+
